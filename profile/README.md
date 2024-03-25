@@ -95,11 +95,13 @@
 
 <details>
 <summary>WBS</summary>
-![alt text](profile/images/image-2.png)
-![alt text](profile/images/image-3.png)
-![alt text](profile/images/image-4.png)
-![alt text](profile/images/image-5.png)
-![alt text](profile/images/image-6.png)
+  <div markdown="1">
+    <img width="100% src="profile/images/image-2.png"/>
+    <img width="100% src="profile/images/image-3.png"/>
+    <img width="100% src="profile/images/image-4.png"/>
+    <img width="100% src="profile/images/image-5.png"/>
+    <img width="100% src="profile/images/image-6.png"/>
+  </div>
 </details>
 
 <br>
