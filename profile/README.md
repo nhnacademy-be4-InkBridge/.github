@@ -28,7 +28,7 @@
 
 ## 아키텍처 구조
 
-![alt text](images/image.png)
+![alt text](profile/images/image.png)
 
 ## 개발 환경
 
@@ -89,17 +89,17 @@
 
 - GitHub Projects와 Issues를 사용하여 진행 상황을 공유했습니다.
 - 매일 스크럼 회의를 진행하며 작업 순서와 방향성에 대한 고민을 나누고 GitHub project에 회의 내용을 기록했습니다.
-  ![alt text](images/image-1.png)
+  ![alt text](profile/images/image-1.png)
 
 <br>
 
 <details>
 <summary>WBS</summary>
-![alt text](images/image-2.png)
-![alt text](images/image-3.png)
-![alt text](images/image-4.png)
-![alt text](images/image-5.png)
-![alt text](images/image-6.png)
+![alt text](profile/images/image-2.png)
+![alt text](profile/images/image-3.png)
+![alt text](profile/images/image-4.png)
+![alt text](profile/images/image-5.png)
+![alt text](profile/images/image-6.png)
 </details>
 
 <br>
