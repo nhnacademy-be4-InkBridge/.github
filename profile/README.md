@@ -28,7 +28,7 @@
 
 ## 아키텍처 구조
 
-![alt text](profile/images/image.png)
+![alt text](profile/images/msa.png)
 
 ## 개발 환경
 
