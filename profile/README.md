@@ -30,6 +30,10 @@
 
 ![alt text](profile/images/msa.png)
 
+## CI/CD
+
+![alt text](profile/images/cicd.png)
+
 ## 개발 환경
 
 - 버전 및 이슈관리 : Github, Github Issues, Github Project
