@@ -95,13 +95,11 @@
 
 <details>
 <summary>WBS</summary>
-  <div markdown="1">
     <img width="100% src="./images/image-2.png"/>
     <img width="100% src="./images/image-3.png"/>
     <img width="100% src="./images/image-4.png"/>
     <img width="100% src="./images/image-5.png"/>
     <img width="100% src="./images/image-6.png"/>
-  </div>
 </details>
 
 <br>
