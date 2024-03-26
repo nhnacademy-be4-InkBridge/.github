@@ -103,11 +103,11 @@
 
 <details>
 <summary>WBS</summary>
-    <img width="100%" src="./image-2.png"/>
-    <img width="100%" src="./image-3.png"/>
-    <img width="100%" src="./image-4.png"/>
-    <img width="100%" src="./image-5.png"/>
-    <img width="100%" src="./image-6.png"/>
+    <img width="100%" src="profile/images/image-2.png"/>
+    <img width="100%" src="profile/images/image-3.png"/>
+    <img width="100%" src="profile/images/image-4.png"/>
+    <img width="100%" src="profile/images/image-5.png"/>
+    <img width="100%" src="profile/images/image-6.png"/>
 </details>
 
 <br>
