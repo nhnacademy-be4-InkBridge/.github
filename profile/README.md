@@ -34,6 +34,10 @@
 
 ![alt text](profile/images/cicd.png)
 
+## ERD
+
+![alt text](profile/images/erd.png)
+
 ## 개발 환경
 
 - 버전 및 이슈관리 : Github, Github Issues, Github Project
