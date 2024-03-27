@@ -290,9 +290,14 @@
 ### 태그
 - 테그 등록, 수정, 조회, 삭제 기능 구현
 - 관리자 테그 뷰
-  
 
 <br>
+
+## 공통 작업
+ - JUnit5를 활용한 테스트 코드 작성
+ - Spring Rest Docs를 활용한 API 문서화
+ - CI/CD 환경 구성 (Jenkins, GitHub Actions)
+ - SonarQube를 통한 정적 코드 분석
 
 ## 개발 기간 및 작업 관리
 
