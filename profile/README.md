@@ -26,6 +26,50 @@
 
 <br>
 
+## 개발 환경
+ - 개발도구: Intellij IDEA - Ultimate
+ - 언어: Java 11 LTS
+ - 빌드도구: Maven
+ - 개발
+    - Spring Framework: 5.3
+    - Spring Boot: 2.7.18
+    - Spring Cloud
+      - Spring Cloud Gateway
+      - Spring Cloud Netflex(Eureka)
+      - Spring Cloud Config
+    - Spring Data
+      - Spring Data JPA
+      - Spring Data Elasticsearch
+      - Spring Data Redis
+    - Spring Batch
+    - Spring Rest Docs
+    - JPA
+      - QueryDSL
+ - 테스트
+    - Junit5
+    - AssertJ
+    - Mockito
+    - SonarQube
+ - 데이터베이스
+    - MySQL: 8.0.25
+    - Redis
+ - 검색엔진
+    - Elastic Search: 7.11.1
+ - ERD
+    - ERDCloud
+ - UI
+    - BOOTSTRAP5
+    - TOAST UI
+ - NHN Cloud
+    - Instance
+    - Secure Key Manager
+    - Object Storage
+    - Load Balancer
+ - 기타
+    - Dooray Hook Sender
+
+<br>
+
 ## 아키텍처 구조
 
 ![alt text](profile/images/msa.png)
@@ -279,7 +323,7 @@
 <br>
 
 ### 테스트 커버리지
-
+ ![alt text](profile/images/test.png)
 <br>
 
 ## 기술 스택
