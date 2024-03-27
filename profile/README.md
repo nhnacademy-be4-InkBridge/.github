@@ -28,7 +28,7 @@
 
 ## 개발 환경
  - 개발도구: Intellij IDEA - Ultimate
- - 언어: Java 11 LTS
+ - 언어: Java 11 LTS Temurin
  - 빌드도구: Maven
  - 개발
     - Spring Framework: 5.3
@@ -36,7 +36,6 @@
     - Spring Cloud
       - Spring Cloud Gateway
       - Spring Cloud Netflex(Eureka)
-      - Spring Cloud Config
     - Spring Data
       - Spring Data JPA
       - Spring Data Elasticsearch
