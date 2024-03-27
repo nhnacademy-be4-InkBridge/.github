@@ -81,11 +81,17 @@
      - Front에서 받아온 회원정보와 API에서 가져온 DB정보를 매치시켜 인증후 토큰 발급.
    - 로그인 실패
      - 매치 실패시 발생한 예외를 UnSuccess에서 Front로 보냄.
+   - 회원 정보 저장
+     - OncePerRequestFilter에서 한요청에 대해 SecurityContextHolder만들어 줌.
  - Front Server
    - 로그인 성공
      - Auth Server 인증 성공시 받아온 토큰을 쿠키에 넣어주고 로그인 처리.
    - 로그인 실패
      - Auth Server 인증 실패시 다시 홈으로 Redirect.
+### OAuth2.0
+ - Payco
+   - Payco 소셜 로그인
+
 ### 회원
   - 회원가입
     - 이메일 중복확인과 Dooray HookSender 인증후 회원가입 합니다.
