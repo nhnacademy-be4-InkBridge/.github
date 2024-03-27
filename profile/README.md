@@ -19,7 +19,7 @@
 
 <div align="center">
   
-| <a href="https://github.com/minseo9974"><img src="https://github.com/minseo9974.png" width="100px"><br>이민서</a> | <a href="https://github.com/nuheajiohc"><img src="https://github.com/nuheajiohc.png" width="100px"><br>최재훈</a> | <a href="https://github.com/minm063"><img src="https://github.com/minm063.png" width="100px"><br>장민주</a> |<a href="https://github.com/JBumLee"><img src="https://github.com/JBumLee.png" width="100px"><br>이정범</a> |<a href ="https://github.com/Huni0819"> <img src ="https://github.com/Huni0819.png" width ="100px"><br>장재훈</a> | <a href="https://github.com/brihgtclo"><img src="https://github.com/brihgtclo.png" width="100px"><br>정병훈</a>
+| <a href="https://github.com/minseo9974"><img src="https://github.com/minseo9974.png" width="100px"><br>이민서</a> | <a href="https://github.com/nuheajiohc"><img src="https://github.com/nuheajiohc.png" width="100px"><br>최재훈</a> | <a href="https://github.com/minm063"><img src="https://github.com/minm063.png" width="100px"><br>장민주</a> |<a href="https://github.com/JBumLee"><img src="https://github.com/JBumLee.png" width="100px"><br>이정범</a> |<a href ="https://github.com/Huni0819"> <img src ="https://github.com/Huni0819.png" width ="100px"><br>장재훈</a> | <a href="https://github.com/brihgtclo"><img src="https://github.com/brihgtclo.png" width="100px"><br>정병훈</a>
 |-----|-----|-----|----|-----|------|
   
 </div>
@@ -116,6 +116,82 @@
 
 <br>
 
-### 기술 스택
+## 기술 스택
+
+**Language**
+
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
 
 <br>
+
+**Framework**
+<div>
+  <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/spring security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
+  <img src="https://img.shields.io/badge/spring batch-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/spring cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/spring gateway-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/spring eureka-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/spring Data JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/spring Data Redis-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/spring RESTdocs-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+</div>
+
+<br>
+
+**Database**
+
+<div>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white"/>
+</div>
+
+<br>
+
+**Build**
+
+<div>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=ApacheMaven&logoColor=white"/>
+</div>
+
+<br>
+
+**CI/CD**
+
+<div>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Github Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</div>
+
+<br>
+
+**DevOps**
+
+<div>
+  <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/sonarqube-4E9BCD?style=for-the-badge&logo=SonarQube&logoColor=white"/>
+</div>
+
+<br>
+
+**ETC**
+
+<div>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/sonarqube-4E9BCD?style=for-the-badge&logo=SonarQube&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
+</div>
+
+<br>
+
+**View**
+
+<div>
+  <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white"/>
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
+</div>
