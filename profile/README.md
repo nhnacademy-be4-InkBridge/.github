@@ -71,7 +71,7 @@
 
 ## 아키텍처 구조
 
-![alt text](profile/images/architecture.png)
+![alt text](profile/images/msa.png)
 
 ## CI/CD
 
