@@ -237,7 +237,7 @@
 <br>
 
 ## 이정범
-### frontEnd GitAction 세팅
+### frontEnd Github Actions 세팅
 ### 쿠폰 
 - 생일쿠폰, 도서쿠폰, 카테고리쿠폰, 일반쿠폰 쿠폰정책 생성
 - 정책에따라 생성된 쿠폰 발급
