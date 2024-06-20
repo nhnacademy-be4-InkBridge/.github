@@ -71,15 +71,15 @@
 
 ## 아키텍처 구조
 
-![alt text](profile/images/msa.png)
+![alt text](/profile/images/msa.png)
 
 ## CI/CD
 
-![alt text](profile/images/cicd.png)
+![alt text](/profile/images/cicd.png)
 
 ## ERD
 
-![alt text](profile/images/erd.png)
+![alt text](/profile/images/erd.png)
 
 ## 개발 환경
 
@@ -311,23 +311,23 @@
 
 - GitHub Projects와 Issues를 사용하여 진행 상황을 공유했습니다.
 - 매일 스크럼 회의를 진행하며 작업 순서와 방향성에 대한 고민을 나누고 GitHub project에 회의 내용을 기록했습니다.
-  ![alt text](profile/images/image-1.png)
+  ![alt text](/profile/images/image-1.png)
 
 <br>
 
 <details>
 <summary>WBS</summary>
-    <img width="100%" src="profile/images/image-2.png"/>
-    <img width="100%" src="profile/images/image-3.png"/>
-    <img width="100%" src="profile/images/image-4.png"/>
-    <img width="100%" src="profile/images/image-5.png"/>
-    <img width="100%" src="profile/images/image-6.png"/>
+    <img width="100%" src="/profile/images/image-2.png"/>
+    <img width="100%" src="/profile/images/image-3.png"/>
+    <img width="100%" src="/profile/images/image-4.png"/>
+    <img width="100%" src="/profile/images/image-5.png"/>
+    <img width="100%" src="/profile/images/image-6.png"/>
 </details>
 
 <br>
 
 ### 테스트 커버리지
- ![alt text](profile/images/test.png)
+ ![alt text](/profile/images/test.png)
 <br>
 
 ## 기술 스택
